@@ -1,0 +1,223 @@
+@media (max-width:1199px) {
+  p#chala{
+    font-size:48px;
+    font-family:Times New Roman;
+    text-align:center;
+    padding-top:50px;
+  }
+}
+
+@media (min-width:1200px) {
+  p#chala{
+    font-size:48px;
+    font-family:Times New Roman;
+    text-align:center;
+    padding-top:50px;
+  }
+}
+
+@media (max-width:1199px) {
+  p#pass{
+    text-align:center;
+    font-size:24px;
+    font-family:Orator Std;
+    position:relative;
+    top:150px;
+  }
+}
+
+@media (min-width:1200px) {
+  p#pass{
+    text-align:center;
+    font-size:24px;
+    font-family:Orator Std;
+    position:relative;
+    top:150px;
+  }
+}
+
+p#user{
+  text-align:center;
+  font-size:24px;
+  font-family:Orator Std;
+  position:relative;
+  top:100px;
+}
+
+@media (min-width:1200px) {
+  p#user{
+    text-align:center;
+    font-size:24px;
+    font-family:Orator Std;
+    position:relative;
+    top:100px;
+  }
+}
+
+img#boxie{
+  float:left;
+}
+
+div#colum.col-md-9.col-md-offset-2{
+  height:100px;
+}
+
+@media (max-width:767px) {
+  img#box{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    position:relative;
+    bottom:98px;
+    width:340px;
+  }
+}
+
+@media (max-width:1199px) {
+  img#box{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    position:relative;
+    bottom:98px;
+  }
+}
+
+@media (min-width:1200px) {
+  img#box{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    position:relative;
+    bottom:104px;
+  }
+}
+
+@media (max-width:1199px) {
+  input#user_field{
+    position:absolute;
+    float:left;
+    left:319px;
+    top:381px;
+    z-index:1000;
+    vertical-align:middle;
+    width:400px;
+  }
+}
+
+@media (min-width:1200px) {
+  input#user_field{
+    position:absolute;
+    float:left;
+    left:480px;
+    top:413px;
+    z-index:1000;
+    vertical-align:middle;
+    width:400px;
+  }
+}
+
+@media (max-width:991px) {
+  input#user_field{
+    position:absolute;
+    float:left;
+    left:192px;
+    top:350px;
+    z-index:1000;
+    vertical-align:middle;
+    width:400px;
+  }
+}
+
+@media (max-width:767px) {
+  input#user_field{
+    position:absolute;
+    float:left;
+    left:33px;
+    top:307px;
+    z-index:1000;
+    vertical-align:middle;
+    width:300px;
+  }
+}
+
+@media (max-width:1199px) {
+  input#pass_field{
+    position:absolute;
+    float:left;
+    left:321px;
+    top:470px;
+    z-index:1000;
+    vertical-align:middle;
+    width:400px;
+  }
+}
+
+@media (max-width:991px) {
+  input#pass_field{
+    position:absolute;
+    float:left;
+    left:195px;
+    top:442px;
+    z-index:1000;
+    vertical-align:middle;
+    width:400px;
+  }
+}
+
+@media (max-width:767px) {
+  input#pass_field{
+    position:absolute;
+    float:left;
+    left:33px;
+    top:405px;
+    z-index:1000;
+    vertical-align:middle;
+    width:300px;
+  }
+}
+
+@media (min-width:1200px) {
+  input#pass_field{
+    position:absolute;
+    float:left;
+    left:479px;
+    top:507px;
+    z-index:1000;
+    vertical-align:middle;
+    width:400px;
+  }
+}
+
+@media (min-width:1200px) {
+  button#enter.btn.btn-default{
+    position:relative;
+    top:188px;
+    left:641px;
+  }
+}
+
+@media (max-width:1199px) {
+  button#enter.btn.btn-default{
+    position:relative;
+    top:188px;
+    left:471px;
+  }
+}
+
+@media (max-width:991px) {
+  button#enter.btn.btn-default{
+    position:relative;
+    top:187px;
+    left:341px;
+  }
+}
+
+@media (max-width:767px) {
+  button#enter.btn.btn-default{
+    position:relative;
+    top:193px;
+    left:143px;
+  }
+}
+

@@ -1,0 +1,21 @@
+h1#vision-heading{
+  display:inline-block;
+  margin-top:3px;
+  margin-left:15px;
+}
+
+div#vision-mission.container{
+  padding:0;
+  margin-top:40px;
+  font-family:'Raleway',sans-serif;
+}
+
+i#vision-icon.fa.fa-chevron-circle-right{
+  font-size:40px;
+}
+
+hr{
+  margin-top:5px;
+  border-color:#1405a6;
+}
+

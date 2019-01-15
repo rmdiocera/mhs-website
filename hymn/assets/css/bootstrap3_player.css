@@ -1,0 +1,55 @@
+.playa input[type="range"]{
+  background-color:#ddd;
+  border:1px solid #bbb;
+  border-radius:0.5em;
+  opacity:0.5;
+  height:1em;
+  top:2px;
+  position:relative;
+}
+
+.playa .thumbnail{
+  width:100%;
+}
+
+.playa .btn-group .btn{
+  display:inline-block;
+  float:none;
+  height:2.2em;
+}
+
+.playa .row:nth-child(4){
+  overflow:hidden;
+}
+
+.spin{
+  -webkit-animation:spin 2s infinite linear;
+  -moz-animation:spin 2s infinite linear;
+  -o-animation:spin 2s infinite linear;
+  animation:spin 2s infinite linear;
+}
+
+@media (max-width:1199px) {
+  #player{
+    margin:0;
+    padding:0;
+    position:relative;
+    float:left;
+    left:45px;
+    top:20px;
+    width:90%;
+  }
+}
+
+@media (min-width:1200px) {
+  #player{
+    margin:0;
+    padding:0;
+    position:relative;
+    float:left;
+    left:55px;
+    top:20px;
+    width:90%;
+  }
+}
+
