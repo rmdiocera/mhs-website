@@ -1,0 +1,133 @@
+@media (min-width:1200px) {
+  li#login-dropdown.dropdown{
+    margin-left:120px;
+  }
+}
+
+@media (max-width:1199px) {
+  li#login-dropdown.dropdown{
+    margin-left:50px;
+  }
+}
+
+@media (min-width:1200px) {
+  ul.dropdown-menu{
+    margin-left:-78px;
+  }
+}
+
+@media (max-width:1199px) {
+  ul.dropdown-menu{
+    margin-left:-93px;
+  }
+}
+
+ul.nav.navbar-nav{
+  position:relative;
+  display:inline-block;
+}
+
+nav.navbar.navbar-inverse{
+  padding-bottom:0px;
+  margin-bottom:0px;
+  border:initial;
+  border:0px;
+  background:rgb(159,202,242);
+}
+
+@media (max-width:1199px) {
+  a.navbar-brand.navbar-link{
+    color:rgb(0, 8, 217);
+    font-family:'Archivo Black', sans-serif;
+    margin-right:20px;
+  }
+}
+
+@media (min-width:1200px) {
+  a.navbar-brand.navbar-link{
+    color:rgb(0, 8, 217);
+    font-family:'Archivo Black', sans-serif;
+  }
+}
+
+@media (max-width:1199px) {
+  .navbar-inverse .navbar-nav > li > a{
+    color:rgb(0,8,217);
+    font-family:'Raleway',sans-serif;
+    padding-top:15px;
+    padding-left:8px;
+    padding-right:8px;
+  }
+}
+
+@media (min-width:1200px) {
+  .navbar-inverse .navbar-nav > li > a{
+    color:rgb(0,8,217);
+    font-family:'Raleway',sans-serif;
+    padding-top:15px;
+  }
+}
+
+.navbar-inverse .navbar-nav > li > a:focus, .navbar-inverse .navbar-nav > li > a:hover{
+  color:#fff;
+  background-color:rgb(0,8,217);
+}
+
+img#logo{
+  max-height:30px;
+  margin-right:10px;
+  margin-top:-5px;
+  margin-bottom:-1px;
+  display:inline-block;
+}
+
+div#orgchart-container.container{
+  margin-top:40px;
+  padding:0;
+}
+
+i#users-icon.fa.fa-users{
+  font-size:40px;
+}
+
+i#users-icon.fa.fa-child{
+  font-size:40px;
+}
+
+h1#orgchart-heading{
+  display:inline-block;
+  margin-top:3px;
+  margin-left:15px;
+}
+
+hr{
+  margin-top:5px;
+  border-color:#1405a6;
+}
+
+div.caption{
+  text-align:center;
+}
+
+img#org-id{
+  height:100px;
+}
+
+div.thumbnail{
+  width:25%;
+  margin-left:auto;
+  margin-right:auto;
+  padding-top:10px;
+}
+
+div.thumbnail.row2{
+  display:inline-block;
+  margin-left:18px;
+  width:23%;
+}
+
+h3{
+  font-size:18px;
+  font-weight:600;
+}
+

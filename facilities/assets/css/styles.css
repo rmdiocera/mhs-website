@@ -1,0 +1,33 @@
+nav.navbar.navbar-default{
+  background-color:yellow;
+}
+
+div#facilities-container.container{
+  margin-top:40px;
+  padding:0;
+}
+
+i#buildings-icon.fa.fa-building{
+  font-size:40px;
+}
+
+h1#facilities-heading{
+  display:inline-block;
+  margin-top:3px;
+  margin-left:15px;
+}
+
+body{
+  font-family:'Raleway',sans-serif;
+  margin:0;
+}
+
+hr{
+  margin-top:5px;
+  border-color:#1405a6;
+}
+
+div#gallery-col.col-md-4{
+  padding:15px;
+}
+
